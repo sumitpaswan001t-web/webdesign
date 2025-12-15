@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Scroll Design Portfolio",
+  "description": "A high-end, interactive design portfolio featuring Apple-inspired minimalism, 3D storytelling with React Three Fiber, GSAP ScrollTrigger orchestrations, and immersive Framer Motion transitions.",
+  "requestFramePermissions": []
+}
